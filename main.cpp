@@ -24,6 +24,6 @@ const int inf = (int)1e9;
 
 int main() {
     Power;
-    
+
     return 0;
 }
